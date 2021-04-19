@@ -11,8 +11,8 @@ In this challenge, we analyzed Amazon reviews. We chose the dataset of digital v
 
 ## Results
 
-1. Perform ETL
-   We created four tables in pgAdmin and the final transformed data into pgAdmin was as follows:
+### Perform ETL
+We created four tables in pgAdmin and the final transformed data into pgAdmin was as follows:
 
 - The customers_table
 
@@ -30,12 +30,12 @@ In this challenge, we analyzed Amazon reviews. We chose the dataset of digital v
 
 ![](Pics/Pic4.jpeg)
 
-2. Bias of Vine Reviews
-   We intended to test if having a paid Vine review made a difference in the percentage of 5-star reviews. Our data criteria:
-
+### Bias of Vine Reviews
+We intended to test if having a paid Vine review made a difference in the percentage of 5-star reviews. Our data criteria:
 - The total_votes count is equal to or greater than 20.
 - The number of helpful_votes divided by total_votes is equal to or greater than 50%.
-  The results were showing as follows:
+
+The results were showing as follows:
 - The final dataset description
 
 ![](Pics/Pic5.png)
