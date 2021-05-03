@@ -6,7 +6,7 @@ In this challenge, we analyzed Amazon reviews. We chose the dataset of digital v
 
 ## Resources
 
-- Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) [Amazon Reviews US Digital Video Games](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz)
+- Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) , [Amazon Reviews US Digital Video Games](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz)
 - Software: AWS RDS, PostgreSQL 11, Google Colab Notebooks
 
 ## Results
